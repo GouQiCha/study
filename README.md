@@ -1,2 +1,1 @@
-# study
-University study record
+计算的过程中的最大数不能超过p，默认为999983
